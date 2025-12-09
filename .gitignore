@@ -24,3 +24,6 @@ build_baseline
 build
 results.json
 /tools/benchmark/
+
+.zed/
+.venv/
